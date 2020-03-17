@@ -1,3 +1,6 @@
+/*Erika Bickford
+* All Rights Reserved (c) 2020
+* March 2, 2020*/
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
