@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3cce92-bb6e-46fb-ab07-8e5160fa46ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,7 @@
       <workItem from="1581887472111" duration="434000" />
       <workItem from="1581887923806" duration="854000" />
       <workItem from="1581888798242" duration="36435000" />
-      <workItem from="1583030054731" duration="16725000" />
+      <workItem from="1583030054731" duration="19778000" />
     </task>
     <servers />
   </component>
@@ -130,10 +132,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1004" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584484927610" />
-    <state x="465" y="129" key="NewModule_or_Project.wizard" timestamp="1584490847158">
+    <state x="465" y="129" key="NewModule_or_Project.wizard" timestamp="1584494468374">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="465" y="129" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1584490847158" />
+    <state x="465" y="129" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1584494468374" />
     <state x="33" y="72" key="SettingsEditor" timestamp="1584489386606">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
