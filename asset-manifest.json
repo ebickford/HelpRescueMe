@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HelpRescueMe/static/css/main.36ec2066.chunk.css",
+    "main.js": "/HelpRescueMe/static/js/main.1ec691c0.chunk.js",
+    "main.js.map": "/HelpRescueMe/static/js/main.1ec691c0.chunk.js.map",
+    "runtime-main.js": "/HelpRescueMe/static/js/runtime-main.92887b5d.js",
+    "runtime-main.js.map": "/HelpRescueMe/static/js/runtime-main.92887b5d.js.map",
+    "static/js/2.e1d52bc1.chunk.js": "/HelpRescueMe/static/js/2.e1d52bc1.chunk.js",
+    "static/js/2.e1d52bc1.chunk.js.map": "/HelpRescueMe/static/js/2.e1d52bc1.chunk.js.map",
+    "index.html": "/HelpRescueMe/index.html",
+    "precache-manifest.f0a494042480e075b789fa743ada32ac.js": "/HelpRescueMe/precache-manifest.f0a494042480e075b789fa743ada32ac.js",
+    "service-worker.js": "/HelpRescueMe/service-worker.js",
+    "static/css/main.36ec2066.chunk.css.map": "/HelpRescueMe/static/css/main.36ec2066.chunk.css.map",
+    "static/js/2.e1d52bc1.chunk.js.LICENSE.txt": "/HelpRescueMe/static/js/2.e1d52bc1.chunk.js.LICENSE.txt",
+    "static/media/collage.jpg": "/HelpRescueMe/static/media/collage.f0ee948e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92887b5d.js",
+    "static/js/2.e1d52bc1.chunk.js",
+    "static/css/main.36ec2066.chunk.css",
+    "static/js/main.1ec691c0.chunk.js"
+  ]
+}
